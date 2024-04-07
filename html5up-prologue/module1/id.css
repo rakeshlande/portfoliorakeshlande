@@ -1,0 +1,41 @@
+.photo img{
+    width: 27%;
+}
+.main{
+    background-color: cornsilk;
+    height: auto;
+    width: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-left-style: solid;
+    margin-left: 450px;
+    border-left-width: 0px;
+    margin-right: 450px;
+    margin-top: 73px;
+   
+    padding-bottom: 26px;
+    padding-top: 24px;
+}
+.intro{
+    background-color:lightgrey;
+    margin-left: 166px;
+    margin-top: -206px;
+    height: 197px;
+    width: 400px;
+}
+.con{
+    background-color:lightskyblue;
+    height: 350px;
+    width: 153px;
+}
+.abo{
+    background-color:lightseagreen;
+    margin-left: 165px;
+  margin-top: -360px;
+  height: 350px;
+  width: 404px;
+}
+.img5{
+    height: 150px;
+    width: 300px;
+}
